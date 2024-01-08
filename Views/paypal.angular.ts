@@ -1,4 +1,4 @@
-npm i @paypal/paypal-js
+// npm i @paypal/paypal-js
 
 import { Component, OnInit } from '@angular/core';
 
