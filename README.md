@@ -1,6 +1,6 @@
-## Module: PaypalClient
+# PaypalClient
 
-**Primary Objectives**: The purpose of this module is to provide a Paypal client class that handles authentication and performs operations such as creating and capturing orders.
+## The purpose of this module is to provide a Paypal client class that handles authentication and performs operations such as creating and capturing orders.
 
 **Critical Functions**:
 1. Authenticate(): This function authenticates the client by sending a request to the Paypal API and returns the authentication response.
